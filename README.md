@@ -16,9 +16,9 @@ information if your circumstances change.
 
 |Brand  |Model             |GPU           |OS                 |GitHub Users            |Discord Users                   |
 |-------|------------------|--------------|-------------------|------------------------|--------------------------------|
-|Apple  |iPhone 13         |Apple A15     |iOS 15             |`@HackerFoo`            |`@HackerFoo#1409`               |
+|Apple  |iPad Pro 12.9‑in. (5th gen)|Apple M1 |iOS 15         |`@HackerFoo`            |`@HackerFoo#1409`               |
 |Apple  |iPhone 8          |Apple A11     |iOS 15             |`@HackerFoo`            |`@HackerFoo#1409`               |
-|Apple  |iPad Pro 12.9‑in. (5th generation)|Apple M1 |iPadOS 15 |`@HackerFoo`          |`@HackerFoo#1409`               |
+|Apple  |iPhone 13         |Apple A15     |iOS 15             |`@HackerFoo`            |`@HackerFoo#1409`               |
 |Huawei |Mate 20 Pro       |Mali-G76  MP10|Android 10 (API ?) |`@inodentry`            |`@Ida Iyes#0981`                |
 |Huawei |Y6 2018           |Adreno 308    |Android 8 (API 26) |`@inodentry`            |`@Ida Iyes#0981`                |
 |Samsung|Chromebook Plus v1|Mali-T860 MP4 |ChromeOS _AL*_     |`@inodentry`            |`@Ida Iyes#0981`                |
