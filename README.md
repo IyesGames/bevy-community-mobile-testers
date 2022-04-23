@@ -19,6 +19,9 @@ information if your circumstances change.
 |Apple  |iPad Pro 12.9‑in. (5th gen)|Apple M1 |iOS 15         |`@HackerFoo`            |`@HackerFoo#1409`               |
 |Apple  |iPhone 8          |Apple A11     |iOS 15             |`@HackerFoo`            |`@HackerFoo#1409`               |
 |Apple  |iPhone 13         |Apple A15     |iOS 15             |`@HackerFoo`            |`@HackerFoo#1409`               |
+|Apple  |iPhone SE (1)     |Apple A1?     |iOS 15             |`@DerKarlos`            |                                |
+|Apple  |iPad (5 Gen.)     |Apple A1?     |iOS 15             |`@DerKarlos`            |                                |
+|Apple  |Macbook Air (2018)|Intel UHD 617 |macOS 12.3.2       |`@DerKarlos`            |                                |
 |Huawei |Mate 20 Pro       |Mali-G76  MP10|Android 10 (API ?) |`@inodentry`            |`@Ida Iyes#0981`                |
 |Huawei |Y6 2018           |Adreno 308    |Android 8 (API 26) |`@inodentry`            |`@Ida Iyes#0981`                |
 |Samsung|Chromebook Plus v1|Mali-T860 MP4 |ChromeOS _AL*_     |`@inodentry`            |`@Ida Iyes#0981`                |
