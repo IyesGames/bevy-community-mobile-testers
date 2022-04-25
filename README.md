@@ -3,8 +3,12 @@
 This is an effort to create a list of mobile hardware that active Bevy
 community members have available to test Bevy on.
 
-If Bevy developers would like something to be tested on specific hardware,
-this list could serve as a reference for who could be contacted.
+If Bevy engine developers would like something to be tested on specific
+hardware, this list could serve as a reference for who could be contacted.
+
+Note: this is for development of Bevy itself (you could be asked to run
+one of the examples, or try a specific Pull Request). This is **not** about
+running random people's projects on your phone!
 
 Let's make Bevy's mobile support awesome, together!
 
